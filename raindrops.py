@@ -7,3 +7,5 @@ def convert(number):
     if number % 7 == 0:
         value += "Plong"
     return value or str(number)
+
+# final result after mentor suggestions
